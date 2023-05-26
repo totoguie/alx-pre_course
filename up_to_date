@@ -1,0 +1,9 @@
+git add *
+git commit -m "My first commit"
+git config --global user.email "totomadoche@gmail.com"
+git config --global user.name "Toto Guie"
+git push 
+git clone
+git branch 
+git checkout 
+
